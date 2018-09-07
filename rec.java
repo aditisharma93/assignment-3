@@ -14,7 +14,7 @@ class rectangle
 		System.out.println("Area Is: " + area);
 	}
 }
-class rect
+class rec
 {
 	public static void main(String[] args) 
 	{
