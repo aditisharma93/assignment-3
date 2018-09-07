@@ -1,6 +1,6 @@
 import java.lang.*;
 import java.util.*;
-class second
+class secondl
 {  Scanner ss=new Scanner (System.in);
     int i=0,j,temp;
     int b[]=new int [10];
@@ -31,12 +31,12 @@ class second
       System.out.println("Second Largest Number: " + b[8]);
     }
 }
-class secondlarge
+class second
 {
   public static void main(String [] args)
   {
     System.out.println("Enter Ten Elements: ");
-    second s=new second();
+    secondl s=new secondl();
     s.sort();
     s.large();
   }
